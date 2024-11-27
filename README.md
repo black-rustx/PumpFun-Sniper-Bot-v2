@@ -1,8 +1,4 @@
-Here's a detailed and visually appealing README for your PumpFun Sniper Bot v2:
-
----
-
-# 🚀 **PumpFun Sniper Bot v2** 
+# 🚀 **PumpFun Sniper Bot v2 (using Geyser(Yellowstone))** 
 
 Welcome to the **PumpFun Sniper Bot v2**! This bot watches for new `pump.fun` token mints on the Solana blockchain in real-time, making it the perfect tool to monitor token launches. 🌟
 
